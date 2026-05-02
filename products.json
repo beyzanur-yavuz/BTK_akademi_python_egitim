@@ -1,0 +1,26 @@
+[
+    {
+        "id": 1,
+        "productName": "Iphone 14",
+        "price": 15000,
+        "kategory": "Telefon",
+        "isPublished": true
+    },
+    {
+        "id": 2,
+        "productName": "Samsung Galaxy S23",
+        "price": 12000,
+        "kategory": "Telefon",
+        "isPublished": true
+    },
+    {
+        "id": 3,
+        "productName": "Iphone 15",
+        "price": 15000,
+        "kategory": "Telefon",
+        "isPublished": false
+    }
+]
+
+
+
